@@ -1,15 +1,17 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
-    background: #4CAF50;
+    background-color: #007BFF;
     color: white;
+    padding: 20px;
     text-align: center;
-    padding: 20px 0;
 }
 
 nav ul {
