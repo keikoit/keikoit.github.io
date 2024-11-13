@@ -1,0 +1,33 @@
+{
+  "challenge": "XtNxdK0bZlmkxmYloA2nEkOvwbqGdgsQhOiEOtYshlI",
+  "rp": {
+    "name": "Learn Passkeys",
+    "id": "learnpasskeys.io"
+  },
+  "user": {
+    "id": "3uHo2gMZuTV8IdzBBIwWVFOxtipZpD4j",
+    "name": "angelic.purple.5061",
+    "displayName": "渡辺陸さん"
+  },
+  "pubKeyCredParams": [
+    {
+      "alg": -7,
+      "type": "public-key"
+    },
+    {
+      "alg": -257,
+      "type": "public-key"
+    }
+  ],
+  "timeout": 60000,
+  "attestation": "direct",
+  "excludeCredentials": [],
+  "authenticatorSelection": {
+    "residentKey": "required",
+    "userVerification": "preferred",
+    "requireResidentKey": true
+  },
+  "extensions": {
+    "credProps": true
+  }
+}
