@@ -27,7 +27,4 @@
     "userVerification": "preferred",
     "requireResidentKey": true
   },
-  "extensions": {
-    "credProps": true
-  }
 }
