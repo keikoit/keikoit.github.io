@@ -1,13 +1,13 @@
 {
   "challenge": "XtNxdK0bZlmkxmYloA2nEkOvwbqGdgsQhOiEOtYshlI",
   "rp": {
-    "name": "Learn Passkeys",
-    "id": "learnpasskeys.io"
+    "name": "Example corporation",
+    "id": "example.com"
   },
   "user": {
     "id": "3uHo2gMZuTV8IdzBBIwWVFOxtipZpD4j",
-    "name": "angelic.purple.5061",
-    "displayName": "渡辺陸さん"
+    "name": "keiko.itakura@example.com",
+    "displayName": "Keiko Itakura"
   },
   "pubKeyCredParams": [
     {
